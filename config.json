@@ -1,7 +1,8 @@
 {
-  "first_app": "",
-  "change_calculator": "",
-  "mortgage_calculator": "",
-  "top_spots": "",
-  "vstda": ""
+  "first_app": "https://gd-ops200-deply-all-the-things.herokuapp.com/",
+  "change_calculator": "https://gd-react100-change-calculator.herokuapp.com/",
+  "mortgage_calculator": "https://gd-react100-mortgage-calc.herokuapp.com/",
+  "top_spots": "https://gd-react100-top-spots.herokuapp.com/",
+  "vstda": "https://gd-react100-vstda.herokuapp.com/",
+  "hackathon": "https://gd-react100-hackathon.herokuapp.com/"
 }
